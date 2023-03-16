@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+img{
+    margin-top: 3rem;
+}
+img:hover{
+    transform: translateY(-3rem);
+}
