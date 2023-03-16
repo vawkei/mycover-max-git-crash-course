@@ -8,3 +8,14 @@ img{
 img:hover{
     transform: translateY(-3rem);
 }
+.links{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+a{
+    color: #fee389;
+}
+a:hover{
+    color: blue;
+}
